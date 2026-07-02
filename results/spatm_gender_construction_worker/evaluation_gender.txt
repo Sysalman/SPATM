@@ -1,0 +1,57 @@
+----------------------------------------------------------------
+['a photo of a female', 'a photo of a male']
+/home/jl_fs/results/spatm_gender_construction_worker/images/007.jpg: 1 | clip_score = 25.0625
+/home/jl_fs/results/spatm_gender_construction_worker/images/045.jpg: 1 | clip_score = 24.703125
+/home/jl_fs/results/spatm_gender_construction_worker/images/010.jpg: 1 | clip_score = 27.796875
+/home/jl_fs/results/spatm_gender_construction_worker/images/033.jpg: 1 | clip_score = 32.71875
+/home/jl_fs/results/spatm_gender_construction_worker/images/043.jpg: 1 | clip_score = 25.234375
+/home/jl_fs/results/spatm_gender_construction_worker/images/034.jpg: 0 | clip_score = 19.875
+/home/jl_fs/results/spatm_gender_construction_worker/images/024.jpg: 0 | clip_score = 25.390625
+/home/jl_fs/results/spatm_gender_construction_worker/images/032.jpg: 1 | clip_score = 30.984375
+/home/jl_fs/results/spatm_gender_construction_worker/images/008.jpg: 1 | clip_score = 29.40625
+/home/jl_fs/results/spatm_gender_construction_worker/images/009.jpg: 1 | clip_score = 26.8125
+/home/jl_fs/results/spatm_gender_construction_worker/images/044.jpg: 1 | clip_score = 9.1640625
+/home/jl_fs/results/spatm_gender_construction_worker/images/022.jpg: 1 | clip_score = 25.515625
+/home/jl_fs/results/spatm_gender_construction_worker/images/040.jpg: 0 | clip_score = 22.328125
+/home/jl_fs/results/spatm_gender_construction_worker/images/041.jpg: 1 | clip_score = 25.15625
+/home/jl_fs/results/spatm_gender_construction_worker/images/002.jpg: 1 | clip_score = 30.65625
+/home/jl_fs/results/spatm_gender_construction_worker/images/017.jpg: 1 | clip_score = 27.578125
+/home/jl_fs/results/spatm_gender_construction_worker/images/029.jpg: 0 | clip_score = 20.84375
+/home/jl_fs/results/spatm_gender_construction_worker/images/030.jpg: 0 | clip_score = 20.6875
+/home/jl_fs/results/spatm_gender_construction_worker/images/005.jpg: 0 | clip_score = 27.90625
+/home/jl_fs/results/spatm_gender_construction_worker/images/047.jpg: 0 | clip_score = 20.65625
+/home/jl_fs/results/spatm_gender_construction_worker/images/039.jpg: 0 | clip_score = 22.78125
+/home/jl_fs/results/spatm_gender_construction_worker/images/018.jpg: 1 | clip_score = 22.203125
+/home/jl_fs/results/spatm_gender_construction_worker/images/021.jpg: 0 | clip_score = 26.703125
+/home/jl_fs/results/spatm_gender_construction_worker/images/006.jpg: 0 | clip_score = 24.6875
+/home/jl_fs/results/spatm_gender_construction_worker/images/028.jpg: 1 | clip_score = 29.046875
+/home/jl_fs/results/spatm_gender_construction_worker/images/025.jpg: 1 | clip_score = 28.6875
+/home/jl_fs/results/spatm_gender_construction_worker/images/049.jpg: 1 | clip_score = 17.59375
+/home/jl_fs/results/spatm_gender_construction_worker/images/036.jpg: 1 | clip_score = 31.390625
+/home/jl_fs/results/spatm_gender_construction_worker/images/048.jpg: 0 | clip_score = 20.34375
+/home/jl_fs/results/spatm_gender_construction_worker/images/020.jpg: 0 | clip_score = 20.265625
+/home/jl_fs/results/spatm_gender_construction_worker/images/019.jpg: 0 | clip_score = 27.859375
+/home/jl_fs/results/spatm_gender_construction_worker/images/003.jpg: 0 | clip_score = 16.734375
+/home/jl_fs/results/spatm_gender_construction_worker/images/013.jpg: 1 | clip_score = 28.546875
+/home/jl_fs/results/spatm_gender_construction_worker/images/042.jpg: 1 | clip_score = 26.0625
+/home/jl_fs/results/spatm_gender_construction_worker/images/004.jpg: 1 | clip_score = 27.53125
+/home/jl_fs/results/spatm_gender_construction_worker/images/046.jpg: 1 | clip_score = 32.34375
+/home/jl_fs/results/spatm_gender_construction_worker/images/035.jpg: 0 | clip_score = 23.421875
+/home/jl_fs/results/spatm_gender_construction_worker/images/037.jpg: 1 | clip_score = 32.03125
+/home/jl_fs/results/spatm_gender_construction_worker/images/038.jpg: 0 | clip_score = 22.140625
+/home/jl_fs/results/spatm_gender_construction_worker/images/016.jpg: 1 | clip_score = 18.3125
+/home/jl_fs/results/spatm_gender_construction_worker/images/000.jpg: 1 | clip_score = 13.8984375
+/home/jl_fs/results/spatm_gender_construction_worker/images/011.jpg: 1 | clip_score = 33.1875
+/home/jl_fs/results/spatm_gender_construction_worker/images/014.jpg: 0 | clip_score = 21.609375
+/home/jl_fs/results/spatm_gender_construction_worker/images/031.jpg: 1 | clip_score = 20.328125
+/home/jl_fs/results/spatm_gender_construction_worker/images/023.jpg: 0 | clip_score = 20.828125
+/home/jl_fs/results/spatm_gender_construction_worker/images/001.jpg: 1 | clip_score = 22.484375
+/home/jl_fs/results/spatm_gender_construction_worker/images/012.jpg: 1 | clip_score = 21.125
+/home/jl_fs/results/spatm_gender_construction_worker/images/015.jpg: 1 | clip_score = 23.90625
+/home/jl_fs/results/spatm_gender_construction_worker/images/026.jpg: 0 | clip_score = 24.953125
+/home/jl_fs/results/spatm_gender_construction_worker/images/027.jpg: 0 | clip_score = 19.609375
+a photo of a female: total pred: 20 | ratio: 0.4 
+a photo of a male: total pred: 30 | ratio: 0.6 
+invalid generation: 0
+For Class ['a photo of a female', 'a photo of a male'], KL Divergence is 0.020136
+CLIP Score is 24.381875

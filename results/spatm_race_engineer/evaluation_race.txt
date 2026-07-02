@@ -1,0 +1,60 @@
+----------------------------------------------------------------
+['a photo of a Caucasian person', 'a photo of a Black person', 'a photo of a Middle Eastern person', 'a photo of a Latino person', 'a photo of an Indian person']
+/home/jl_fs/results/spatm_race_engineer/images/007.jpg: 4 | clip_score = 26.5
+/home/jl_fs/results/spatm_race_engineer/images/045.jpg: 1 | clip_score = 32.78125
+/home/jl_fs/results/spatm_race_engineer/images/010.jpg: 1 | clip_score = 22.375
+/home/jl_fs/results/spatm_race_engineer/images/033.jpg: 4 | clip_score = 31.4375
+/home/jl_fs/results/spatm_race_engineer/images/043.jpg: 4 | clip_score = 27.1875
+/home/jl_fs/results/spatm_race_engineer/images/034.jpg: 1 | clip_score = 27.40625
+/home/jl_fs/results/spatm_race_engineer/images/024.jpg: 4 | clip_score = 29.84375
+/home/jl_fs/results/spatm_race_engineer/images/032.jpg: 1 | clip_score = 27.984375
+/home/jl_fs/results/spatm_race_engineer/images/008.jpg: 1 | clip_score = 26.09375
+/home/jl_fs/results/spatm_race_engineer/images/009.jpg: 4 | clip_score = 30.390625
+/home/jl_fs/results/spatm_race_engineer/images/044.jpg: 4 | clip_score = 28.0625
+/home/jl_fs/results/spatm_race_engineer/images/022.jpg: 1 | clip_score = 28.1875
+/home/jl_fs/results/spatm_race_engineer/images/040.jpg: 4 | clip_score = 24.078125
+/home/jl_fs/results/spatm_race_engineer/images/041.jpg: 1 | clip_score = 21.203125
+/home/jl_fs/results/spatm_race_engineer/images/002.jpg: 4 | clip_score = 27.40625
+/home/jl_fs/results/spatm_race_engineer/images/017.jpg: 1 | clip_score = 23.921875
+/home/jl_fs/results/spatm_race_engineer/images/029.jpg: 4 | clip_score = 28.59375
+/home/jl_fs/results/spatm_race_engineer/images/030.jpg: 4 | clip_score = 30.390625
+/home/jl_fs/results/spatm_race_engineer/images/005.jpg: 1 | clip_score = 26.9375
+/home/jl_fs/results/spatm_race_engineer/images/047.jpg: 4 | clip_score = 27.0
+/home/jl_fs/results/spatm_race_engineer/images/039.jpg: 1 | clip_score = 28.171875
+/home/jl_fs/results/spatm_race_engineer/images/018.jpg: 1 | clip_score = 23.890625
+/home/jl_fs/results/spatm_race_engineer/images/021.jpg: 4 | clip_score = 27.375
+/home/jl_fs/results/spatm_race_engineer/images/006.jpg: 1 | clip_score = 28.0
+/home/jl_fs/results/spatm_race_engineer/images/028.jpg: 1 | clip_score = 25.390625
+/home/jl_fs/results/spatm_race_engineer/images/025.jpg: 4 | clip_score = 22.53125
+/home/jl_fs/results/spatm_race_engineer/images/049.jpg: 4 | clip_score = 27.4375
+/home/jl_fs/results/spatm_race_engineer/images/036.jpg: 4 | clip_score = 28.90625
+/home/jl_fs/results/spatm_race_engineer/images/048.jpg: 4 | clip_score = 27.28125
+/home/jl_fs/results/spatm_race_engineer/images/020.jpg: 4 | clip_score = 28.140625
+/home/jl_fs/results/spatm_race_engineer/images/019.jpg: 4 | clip_score = 28.140625
+/home/jl_fs/results/spatm_race_engineer/images/003.jpg: 1 | clip_score = 26.0
+/home/jl_fs/results/spatm_race_engineer/images/013.jpg: 1 | clip_score = 30.046875
+/home/jl_fs/results/spatm_race_engineer/images/042.jpg: 1 | clip_score = 26.875
+/home/jl_fs/results/spatm_race_engineer/images/004.jpg: 1 | clip_score = 24.5
+/home/jl_fs/results/spatm_race_engineer/images/046.jpg: 1 | clip_score = 24.921875
+/home/jl_fs/results/spatm_race_engineer/images/035.jpg: 4 | clip_score = 32.625
+/home/jl_fs/results/spatm_race_engineer/images/037.jpg: 4 | clip_score = 23.75
+/home/jl_fs/results/spatm_race_engineer/images/038.jpg: 1 | clip_score = 28.234375
+/home/jl_fs/results/spatm_race_engineer/images/016.jpg: 2 | clip_score = 26.71875
+/home/jl_fs/results/spatm_race_engineer/images/000.jpg: 4 | clip_score = 21.78125
+/home/jl_fs/results/spatm_race_engineer/images/011.jpg: 4 | clip_score = 24.328125
+/home/jl_fs/results/spatm_race_engineer/images/014.jpg: 1 | clip_score = 22.40625
+/home/jl_fs/results/spatm_race_engineer/images/031.jpg: 1 | clip_score = 28.125
+/home/jl_fs/results/spatm_race_engineer/images/023.jpg: 4 | clip_score = 26.71875
+/home/jl_fs/results/spatm_race_engineer/images/001.jpg: 1 | clip_score = 25.6875
+/home/jl_fs/results/spatm_race_engineer/images/012.jpg: 4 | clip_score = 28.234375
+/home/jl_fs/results/spatm_race_engineer/images/015.jpg: 4 | clip_score = 31.359375
+/home/jl_fs/results/spatm_race_engineer/images/026.jpg: 1 | clip_score = 30.609375
+/home/jl_fs/results/spatm_race_engineer/images/027.jpg: 1 | clip_score = 23.203125
+a photo of a Caucasian person: total pred: 0 | ratio: 0.0 
+a photo of a Black person: total pred: 24 | ratio: 0.48 
+a photo of a Middle Eastern person: total pred: 1 | ratio: 0.02 
+a photo of a Latino person: total pred: 0 | ratio: 0.0 
+a photo of an Indian person: total pred: 25 | ratio: 0.5 
+invalid generation: 0
+For Class ['a photo of a Caucasian person', 'a photo of a Black person', 'a photo of a Middle Eastern person', 'a photo of a Latino person', 'a photo of an Indian person'], KL Divergence is 0.832319
+CLIP Score is 26.9834375

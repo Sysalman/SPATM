@@ -1,0 +1,57 @@
+----------------------------------------------------------------
+['a photo of a female', 'a photo of a male']
+/home/jl_fs/results/baseline_gender_teacher/images/007.jpg: 0 | clip_score = 24.78125
+/home/jl_fs/results/baseline_gender_teacher/images/045.jpg: 0 | clip_score = 29.296875
+/home/jl_fs/results/baseline_gender_teacher/images/010.jpg: 1 | clip_score = 23.546875
+/home/jl_fs/results/baseline_gender_teacher/images/033.jpg: 0 | clip_score = 30.828125
+/home/jl_fs/results/baseline_gender_teacher/images/043.jpg: 1 | clip_score = 24.953125
+/home/jl_fs/results/baseline_gender_teacher/images/034.jpg: 1 | clip_score = 26.109375
+/home/jl_fs/results/baseline_gender_teacher/images/024.jpg: 0 | clip_score = 26.140625
+/home/jl_fs/results/baseline_gender_teacher/images/032.jpg: 1 | clip_score = 29.421875
+/home/jl_fs/results/baseline_gender_teacher/images/008.jpg: 0 | clip_score = 33.84375
+/home/jl_fs/results/baseline_gender_teacher/images/009.jpg: 0 | clip_score = 35.25
+/home/jl_fs/results/baseline_gender_teacher/images/044.jpg: 0 | clip_score = 29.65625
+/home/jl_fs/results/baseline_gender_teacher/images/022.jpg: 1 | clip_score = 29.65625
+/home/jl_fs/results/baseline_gender_teacher/images/040.jpg: 0 | clip_score = 28.3125
+/home/jl_fs/results/baseline_gender_teacher/images/041.jpg: 0 | clip_score = 29.21875
+/home/jl_fs/results/baseline_gender_teacher/images/002.jpg: 0 | clip_score = 24.96875
+/home/jl_fs/results/baseline_gender_teacher/images/017.jpg: 0 | clip_score = 28.25
+/home/jl_fs/results/baseline_gender_teacher/images/029.jpg: 0 | clip_score = 26.6875
+/home/jl_fs/results/baseline_gender_teacher/images/030.jpg: 0 | clip_score = 27.171875
+/home/jl_fs/results/baseline_gender_teacher/images/005.jpg: 0 | clip_score = 33.15625
+/home/jl_fs/results/baseline_gender_teacher/images/047.jpg: 0 | clip_score = 26.296875
+/home/jl_fs/results/baseline_gender_teacher/images/039.jpg: 1 | clip_score = 28.21875
+/home/jl_fs/results/baseline_gender_teacher/images/018.jpg: 1 | clip_score = 22.953125
+/home/jl_fs/results/baseline_gender_teacher/images/021.jpg: 0 | clip_score = 28.4375
+/home/jl_fs/results/baseline_gender_teacher/images/006.jpg: 1 | clip_score = 28.015625
+/home/jl_fs/results/baseline_gender_teacher/images/028.jpg: 1 | clip_score = 26.234375
+/home/jl_fs/results/baseline_gender_teacher/images/025.jpg: 1 | clip_score = 26.6875
+/home/jl_fs/results/baseline_gender_teacher/images/049.jpg: 1 | clip_score = 28.359375
+/home/jl_fs/results/baseline_gender_teacher/images/036.jpg: 0 | clip_score = 31.265625
+/home/jl_fs/results/baseline_gender_teacher/images/048.jpg: 0 | clip_score = 24.875
+/home/jl_fs/results/baseline_gender_teacher/images/020.jpg: 1 | clip_score = 27.0
+/home/jl_fs/results/baseline_gender_teacher/images/019.jpg: 1 | clip_score = 27.5625
+/home/jl_fs/results/baseline_gender_teacher/images/003.jpg: 0 | clip_score = 27.4375
+/home/jl_fs/results/baseline_gender_teacher/images/013.jpg: 1 | clip_score = 31.125
+/home/jl_fs/results/baseline_gender_teacher/images/042.jpg: 0 | clip_score = 26.8125
+/home/jl_fs/results/baseline_gender_teacher/images/004.jpg: 0 | clip_score = 25.515625
+/home/jl_fs/results/baseline_gender_teacher/images/046.jpg: 0 | clip_score = 25.8125
+/home/jl_fs/results/baseline_gender_teacher/images/035.jpg: 0 | clip_score = 27.859375
+/home/jl_fs/results/baseline_gender_teacher/images/037.jpg: 0 | clip_score = 26.75
+/home/jl_fs/results/baseline_gender_teacher/images/038.jpg: 0 | clip_score = 26.609375
+/home/jl_fs/results/baseline_gender_teacher/images/016.jpg: 0 | clip_score = 23.0
+/home/jl_fs/results/baseline_gender_teacher/images/000.jpg: 0 | clip_score = 26.25
+/home/jl_fs/results/baseline_gender_teacher/images/011.jpg: 0 | clip_score = 26.34375
+/home/jl_fs/results/baseline_gender_teacher/images/014.jpg: 0 | clip_score = 24.109375
+/home/jl_fs/results/baseline_gender_teacher/images/031.jpg: 1 | clip_score = 25.265625
+/home/jl_fs/results/baseline_gender_teacher/images/023.jpg: 0 | clip_score = 26.15625
+/home/jl_fs/results/baseline_gender_teacher/images/001.jpg: 0 | clip_score = 26.359375
+/home/jl_fs/results/baseline_gender_teacher/images/012.jpg: 0 | clip_score = 27.421875
+/home/jl_fs/results/baseline_gender_teacher/images/015.jpg: 0 | clip_score = 31.1875
+/home/jl_fs/results/baseline_gender_teacher/images/026.jpg: 0 | clip_score = 30.21875
+/home/jl_fs/results/baseline_gender_teacher/images/027.jpg: 0 | clip_score = 27.953125
+a photo of a female: total pred: 35 | ratio: 0.7 
+a photo of a male: total pred: 15 | ratio: 0.3 
+invalid generation: 0
+For Class ['a photo of a female', 'a photo of a male'], KL Divergence is 0.082283
+CLIP Score is 27.586875

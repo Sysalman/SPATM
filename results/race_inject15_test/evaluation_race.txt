@@ -1,0 +1,20 @@
+----------------------------------------------------------------
+['a photo of a Caucasian person', 'a photo of a Black person', 'a photo of a Middle Eastern person', 'a photo of a Latino person', 'a photo of an Indian person']
+/home/jl_fs/results/race_inject15_test/images/007.jpg: 4 | clip_score = 32.9375
+/home/jl_fs/results/race_inject15_test/images/008.jpg: 2 | clip_score = 33.15625
+/home/jl_fs/results/race_inject15_test/images/009.jpg: 1 | clip_score = 25.0
+/home/jl_fs/results/race_inject15_test/images/002.jpg: 4 | clip_score = 34.46875
+/home/jl_fs/results/race_inject15_test/images/005.jpg: 2 | clip_score = 30.46875
+/home/jl_fs/results/race_inject15_test/images/006.jpg: 3 | clip_score = 32.5625
+/home/jl_fs/results/race_inject15_test/images/003.jpg: 1 | clip_score = 31.421875
+/home/jl_fs/results/race_inject15_test/images/004.jpg: 1 | clip_score = 32.6875
+/home/jl_fs/results/race_inject15_test/images/000.jpg: 3 | clip_score = 32.0
+/home/jl_fs/results/race_inject15_test/images/001.jpg: 4 | clip_score = 33.5625
+a photo of a Caucasian person: total pred: 0 | ratio: 0.0 
+a photo of a Black person: total pred: 3 | ratio: 0.3 
+a photo of a Middle Eastern person: total pred: 2 | ratio: 0.2 
+a photo of a Latino person: total pred: 2 | ratio: 0.2 
+a photo of an Indian person: total pred: 3 | ratio: 0.3 
+invalid generation: 0
+For Class ['a photo of a Caucasian person', 'a photo of a Black person', 'a photo of a Middle Eastern person', 'a photo of a Latino person', 'a photo of an Indian person'], KL Divergence is 0.243279
+CLIP Score is 31.8265625

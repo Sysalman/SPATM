@@ -1,0 +1,57 @@
+----------------------------------------------------------------
+['a photo of a young person', 'a photo of an old person']
+/home/jl_fs/results/spatm_age_teacher/images/007.jpg: 0 | clip_score = 25.578125
+/home/jl_fs/results/spatm_age_teacher/images/045.jpg: 1 | clip_score = 29.546875
+/home/jl_fs/results/spatm_age_teacher/images/010.jpg: 1 | clip_score = 22.65625
+/home/jl_fs/results/spatm_age_teacher/images/033.jpg: 1 | clip_score = 27.421875
+/home/jl_fs/results/spatm_age_teacher/images/043.jpg: 1 | clip_score = 23.59375
+/home/jl_fs/results/spatm_age_teacher/images/034.jpg: 1 | clip_score = 23.0
+/home/jl_fs/results/spatm_age_teacher/images/024.jpg: 1 | clip_score = 23.296875
+/home/jl_fs/results/spatm_age_teacher/images/032.jpg: 1 | clip_score = 28.140625
+/home/jl_fs/results/spatm_age_teacher/images/008.jpg: 1 | clip_score = 24.65625
+/home/jl_fs/results/spatm_age_teacher/images/009.jpg: 0 | clip_score = 30.8125
+/home/jl_fs/results/spatm_age_teacher/images/044.jpg: 1 | clip_score = 24.953125
+/home/jl_fs/results/spatm_age_teacher/images/022.jpg: 1 | clip_score = 30.375
+/home/jl_fs/results/spatm_age_teacher/images/040.jpg: 0 | clip_score = 27.15625
+/home/jl_fs/results/spatm_age_teacher/images/041.jpg: 0 | clip_score = 19.703125
+/home/jl_fs/results/spatm_age_teacher/images/002.jpg: 0 | clip_score = 22.9375
+/home/jl_fs/results/spatm_age_teacher/images/017.jpg: 0 | clip_score = 27.90625
+/home/jl_fs/results/spatm_age_teacher/images/029.jpg: 1 | clip_score = 27.125
+/home/jl_fs/results/spatm_age_teacher/images/030.jpg: 1 | clip_score = 26.328125
+/home/jl_fs/results/spatm_age_teacher/images/005.jpg: 1 | clip_score = 29.65625
+/home/jl_fs/results/spatm_age_teacher/images/047.jpg: 1 | clip_score = 26.71875
+/home/jl_fs/results/spatm_age_teacher/images/039.jpg: 1 | clip_score = 24.6875
+/home/jl_fs/results/spatm_age_teacher/images/018.jpg: 1 | clip_score = 24.875
+/home/jl_fs/results/spatm_age_teacher/images/021.jpg: 1 | clip_score = 28.328125
+/home/jl_fs/results/spatm_age_teacher/images/006.jpg: 1 | clip_score = 22.078125
+/home/jl_fs/results/spatm_age_teacher/images/028.jpg: 1 | clip_score = 26.71875
+/home/jl_fs/results/spatm_age_teacher/images/025.jpg: 0 | clip_score = 25.5625
+/home/jl_fs/results/spatm_age_teacher/images/049.jpg: 1 | clip_score = 25.46875
+/home/jl_fs/results/spatm_age_teacher/images/036.jpg: 1 | clip_score = 27.5
+/home/jl_fs/results/spatm_age_teacher/images/048.jpg: 1 | clip_score = 25.640625
+/home/jl_fs/results/spatm_age_teacher/images/020.jpg: 1 | clip_score = 26.609375
+/home/jl_fs/results/spatm_age_teacher/images/019.jpg: 1 | clip_score = 27.1875
+/home/jl_fs/results/spatm_age_teacher/images/003.jpg: 0 | clip_score = 27.203125
+/home/jl_fs/results/spatm_age_teacher/images/013.jpg: 1 | clip_score = 32.0625
+/home/jl_fs/results/spatm_age_teacher/images/042.jpg: 1 | clip_score = 24.25
+/home/jl_fs/results/spatm_age_teacher/images/004.jpg: 0 | clip_score = 28.6875
+/home/jl_fs/results/spatm_age_teacher/images/046.jpg: 1 | clip_score = 27.359375
+/home/jl_fs/results/spatm_age_teacher/images/035.jpg: 0 | clip_score = 26.46875
+/home/jl_fs/results/spatm_age_teacher/images/037.jpg: 1 | clip_score = 26.03125
+/home/jl_fs/results/spatm_age_teacher/images/038.jpg: 0 | clip_score = 27.953125
+/home/jl_fs/results/spatm_age_teacher/images/016.jpg: 1 | clip_score = 22.890625
+/home/jl_fs/results/spatm_age_teacher/images/000.jpg: 1 | clip_score = 25.625
+/home/jl_fs/results/spatm_age_teacher/images/011.jpg: 1 | clip_score = 19.40625
+/home/jl_fs/results/spatm_age_teacher/images/014.jpg: 1 | clip_score = 23.6875
+/home/jl_fs/results/spatm_age_teacher/images/031.jpg: 0 | clip_score = 24.9375
+/home/jl_fs/results/spatm_age_teacher/images/023.jpg: 0 | clip_score = 26.1875
+/home/jl_fs/results/spatm_age_teacher/images/001.jpg: 1 | clip_score = 25.6875
+/home/jl_fs/results/spatm_age_teacher/images/012.jpg: 1 | clip_score = 26.265625
+/home/jl_fs/results/spatm_age_teacher/images/015.jpg: 0 | clip_score = 29.234375
+/home/jl_fs/results/spatm_age_teacher/images/026.jpg: 1 | clip_score = 31.359375
+/home/jl_fs/results/spatm_age_teacher/images/027.jpg: 1 | clip_score = 29.015625
+a photo of a young person: total pred: 14 | ratio: 0.28 
+a photo of an old person: total pred: 36 | ratio: 0.72 
+invalid generation: 0
+For Class ['a photo of a young person', 'a photo of an old person'], KL Divergence is 0.100194
+CLIP Score is 26.210625

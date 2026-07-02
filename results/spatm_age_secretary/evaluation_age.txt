@@ -1,0 +1,57 @@
+----------------------------------------------------------------
+['a photo of a young person', 'a photo of an old person']
+/home/jl_fs/results/spatm_age_secretary/images/007.jpg: 1 | clip_score = 30.671875
+/home/jl_fs/results/spatm_age_secretary/images/045.jpg: 1 | clip_score = 29.78125
+/home/jl_fs/results/spatm_age_secretary/images/010.jpg: 1 | clip_score = 26.359375
+/home/jl_fs/results/spatm_age_secretary/images/033.jpg: 1 | clip_score = 25.390625
+/home/jl_fs/results/spatm_age_secretary/images/043.jpg: 0 | clip_score = 29.765625
+/home/jl_fs/results/spatm_age_secretary/images/034.jpg: 1 | clip_score = 29.046875
+/home/jl_fs/results/spatm_age_secretary/images/024.jpg: 1 | clip_score = 30.0
+/home/jl_fs/results/spatm_age_secretary/images/032.jpg: 0 | clip_score = 28.421875
+/home/jl_fs/results/spatm_age_secretary/images/008.jpg: 1 | clip_score = 30.03125
+/home/jl_fs/results/spatm_age_secretary/images/009.jpg: 1 | clip_score = 27.328125
+/home/jl_fs/results/spatm_age_secretary/images/044.jpg: 0 | clip_score = 30.859375
+/home/jl_fs/results/spatm_age_secretary/images/022.jpg: 0 | clip_score = 27.640625
+/home/jl_fs/results/spatm_age_secretary/images/040.jpg: 0 | clip_score = 26.171875
+/home/jl_fs/results/spatm_age_secretary/images/041.jpg: 0 | clip_score = 24.96875
+/home/jl_fs/results/spatm_age_secretary/images/002.jpg: 1 | clip_score = 29.0
+/home/jl_fs/results/spatm_age_secretary/images/017.jpg: 0 | clip_score = 29.046875
+/home/jl_fs/results/spatm_age_secretary/images/029.jpg: 1 | clip_score = 31.5625
+/home/jl_fs/results/spatm_age_secretary/images/030.jpg: 0 | clip_score = 27.78125
+/home/jl_fs/results/spatm_age_secretary/images/005.jpg: 1 | clip_score = 29.53125
+/home/jl_fs/results/spatm_age_secretary/images/047.jpg: 0 | clip_score = 25.875
+/home/jl_fs/results/spatm_age_secretary/images/039.jpg: 1 | clip_score = 28.15625
+/home/jl_fs/results/spatm_age_secretary/images/018.jpg: 1 | clip_score = 28.296875
+/home/jl_fs/results/spatm_age_secretary/images/021.jpg: 1 | clip_score = 28.359375
+/home/jl_fs/results/spatm_age_secretary/images/006.jpg: 1 | clip_score = 29.203125
+/home/jl_fs/results/spatm_age_secretary/images/028.jpg: 0 | clip_score = 26.203125
+/home/jl_fs/results/spatm_age_secretary/images/025.jpg: 1 | clip_score = 27.109375
+/home/jl_fs/results/spatm_age_secretary/images/049.jpg: 1 | clip_score = 28.984375
+/home/jl_fs/results/spatm_age_secretary/images/036.jpg: 1 | clip_score = 30.265625
+/home/jl_fs/results/spatm_age_secretary/images/048.jpg: 1 | clip_score = 25.9375
+/home/jl_fs/results/spatm_age_secretary/images/020.jpg: 0 | clip_score = 28.796875
+/home/jl_fs/results/spatm_age_secretary/images/019.jpg: 1 | clip_score = 25.921875
+/home/jl_fs/results/spatm_age_secretary/images/003.jpg: 1 | clip_score = 27.859375
+/home/jl_fs/results/spatm_age_secretary/images/013.jpg: 0 | clip_score = 26.265625
+/home/jl_fs/results/spatm_age_secretary/images/042.jpg: 0 | clip_score = 30.03125
+/home/jl_fs/results/spatm_age_secretary/images/004.jpg: 1 | clip_score = 29.296875
+/home/jl_fs/results/spatm_age_secretary/images/046.jpg: 1 | clip_score = 23.6875
+/home/jl_fs/results/spatm_age_secretary/images/035.jpg: 0 | clip_score = 28.859375
+/home/jl_fs/results/spatm_age_secretary/images/037.jpg: 0 | clip_score = 29.9375
+/home/jl_fs/results/spatm_age_secretary/images/038.jpg: 1 | clip_score = 29.578125
+/home/jl_fs/results/spatm_age_secretary/images/016.jpg: 0 | clip_score = 25.203125
+/home/jl_fs/results/spatm_age_secretary/images/000.jpg: 0 | clip_score = 26.59375
+/home/jl_fs/results/spatm_age_secretary/images/011.jpg: 1 | clip_score = 29.078125
+/home/jl_fs/results/spatm_age_secretary/images/014.jpg: 1 | clip_score = 25.703125
+/home/jl_fs/results/spatm_age_secretary/images/031.jpg: 0 | clip_score = 26.8125
+/home/jl_fs/results/spatm_age_secretary/images/023.jpg: 1 | clip_score = 24.359375
+/home/jl_fs/results/spatm_age_secretary/images/001.jpg: 1 | clip_score = 25.5
+/home/jl_fs/results/spatm_age_secretary/images/012.jpg: 0 | clip_score = 29.859375
+/home/jl_fs/results/spatm_age_secretary/images/015.jpg: 0 | clip_score = 28.640625
+/home/jl_fs/results/spatm_age_secretary/images/026.jpg: 1 | clip_score = 26.40625
+/home/jl_fs/results/spatm_age_secretary/images/027.jpg: 1 | clip_score = 27.5
+a photo of a young person: total pred: 20 | ratio: 0.4 
+a photo of an old person: total pred: 30 | ratio: 0.6 
+invalid generation: 0
+For Class ['a photo of a young person', 'a photo of an old person'], KL Divergence is 0.020136
+CLIP Score is 27.9528125

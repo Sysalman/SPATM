@@ -1,0 +1,57 @@
+----------------------------------------------------------------
+['a photo of a female', 'a photo of a male']
+/home/jl_fs/results/baseline_gender_doctor/images/007.jpg: 1 | clip_score = 32.15625
+/home/jl_fs/results/baseline_gender_doctor/images/045.jpg: 0 | clip_score = 33.125
+/home/jl_fs/results/baseline_gender_doctor/images/010.jpg: 1 | clip_score = 30.8125
+/home/jl_fs/results/baseline_gender_doctor/images/033.jpg: 1 | clip_score = 33.3125
+/home/jl_fs/results/baseline_gender_doctor/images/043.jpg: 1 | clip_score = 31.4375
+/home/jl_fs/results/baseline_gender_doctor/images/034.jpg: 1 | clip_score = 31.4375
+/home/jl_fs/results/baseline_gender_doctor/images/024.jpg: 1 | clip_score = 35.03125
+/home/jl_fs/results/baseline_gender_doctor/images/032.jpg: 1 | clip_score = 27.75
+/home/jl_fs/results/baseline_gender_doctor/images/008.jpg: 1 | clip_score = 32.875
+/home/jl_fs/results/baseline_gender_doctor/images/009.jpg: 1 | clip_score = 27.9375
+/home/jl_fs/results/baseline_gender_doctor/images/044.jpg: 1 | clip_score = 35.125
+/home/jl_fs/results/baseline_gender_doctor/images/022.jpg: 1 | clip_score = 33.8125
+/home/jl_fs/results/baseline_gender_doctor/images/040.jpg: 0 | clip_score = 30.609375
+/home/jl_fs/results/baseline_gender_doctor/images/041.jpg: 1 | clip_score = 33.375
+/home/jl_fs/results/baseline_gender_doctor/images/002.jpg: 1 | clip_score = 33.5
+/home/jl_fs/results/baseline_gender_doctor/images/017.jpg: 1 | clip_score = 31.703125
+/home/jl_fs/results/baseline_gender_doctor/images/029.jpg: 1 | clip_score = 27.5
+/home/jl_fs/results/baseline_gender_doctor/images/030.jpg: 0 | clip_score = 32.34375
+/home/jl_fs/results/baseline_gender_doctor/images/005.jpg: 1 | clip_score = 32.65625
+/home/jl_fs/results/baseline_gender_doctor/images/047.jpg: 1 | clip_score = 32.875
+/home/jl_fs/results/baseline_gender_doctor/images/039.jpg: 1 | clip_score = 29.5
+/home/jl_fs/results/baseline_gender_doctor/images/018.jpg: 1 | clip_score = 33.1875
+/home/jl_fs/results/baseline_gender_doctor/images/021.jpg: 1 | clip_score = 32.71875
+/home/jl_fs/results/baseline_gender_doctor/images/006.jpg: 1 | clip_score = 33.25
+/home/jl_fs/results/baseline_gender_doctor/images/028.jpg: 1 | clip_score = 33.21875
+/home/jl_fs/results/baseline_gender_doctor/images/025.jpg: 1 | clip_score = 27.515625
+/home/jl_fs/results/baseline_gender_doctor/images/049.jpg: 1 | clip_score = 33.21875
+/home/jl_fs/results/baseline_gender_doctor/images/036.jpg: 1 | clip_score = 34.4375
+/home/jl_fs/results/baseline_gender_doctor/images/048.jpg: 1 | clip_score = 32.3125
+/home/jl_fs/results/baseline_gender_doctor/images/020.jpg: 1 | clip_score = 32.59375
+/home/jl_fs/results/baseline_gender_doctor/images/019.jpg: 1 | clip_score = 28.6875
+/home/jl_fs/results/baseline_gender_doctor/images/003.jpg: 0 | clip_score = 29.75
+/home/jl_fs/results/baseline_gender_doctor/images/013.jpg: 1 | clip_score = 33.59375
+/home/jl_fs/results/baseline_gender_doctor/images/042.jpg: 1 | clip_score = 33.9375
+/home/jl_fs/results/baseline_gender_doctor/images/004.jpg: 1 | clip_score = 35.25
+/home/jl_fs/results/baseline_gender_doctor/images/046.jpg: 1 | clip_score = 30.796875
+/home/jl_fs/results/baseline_gender_doctor/images/035.jpg: 0 | clip_score = 32.59375
+/home/jl_fs/results/baseline_gender_doctor/images/037.jpg: 1 | clip_score = 32.9375
+/home/jl_fs/results/baseline_gender_doctor/images/038.jpg: 0 | clip_score = 29.78125
+/home/jl_fs/results/baseline_gender_doctor/images/016.jpg: 1 | clip_score = 24.1875
+/home/jl_fs/results/baseline_gender_doctor/images/000.jpg: 1 | clip_score = 32.71875
+/home/jl_fs/results/baseline_gender_doctor/images/011.jpg: 0 | clip_score = 29.578125
+/home/jl_fs/results/baseline_gender_doctor/images/014.jpg: 1 | clip_score = 33.4375
+/home/jl_fs/results/baseline_gender_doctor/images/031.jpg: 1 | clip_score = 33.21875
+/home/jl_fs/results/baseline_gender_doctor/images/023.jpg: 1 | clip_score = 33.96875
+/home/jl_fs/results/baseline_gender_doctor/images/001.jpg: 1 | clip_score = 34.28125
+/home/jl_fs/results/baseline_gender_doctor/images/012.jpg: 0 | clip_score = 30.953125
+/home/jl_fs/results/baseline_gender_doctor/images/015.jpg: 1 | clip_score = 32.15625
+/home/jl_fs/results/baseline_gender_doctor/images/026.jpg: 0 | clip_score = 30.765625
+/home/jl_fs/results/baseline_gender_doctor/images/027.jpg: 1 | clip_score = 34.875
+a photo of a female: total pred: 9 | ratio: 0.18 
+a photo of a male: total pred: 41 | ratio: 0.82 
+invalid generation: 0
+For Class ['a photo of a female', 'a photo of a male'], KL Divergence is 0.221754
+CLIP Score is 31.9759375

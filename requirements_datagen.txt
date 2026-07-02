@@ -1,0 +1,57 @@
+# =========================================================
+# requirements_datagen.txt
+# COMPLETE dependency set for the entire SPATM project:
+#   generate_data.py, build_dataset_csv.py, train_spatm.py,
+#   spatm_pipeline.py, interface_spatm.py, evaluate_clip.py,
+#   get_average_metrics.py
+#
+# Core libs pinned to the working dev environment so behavior
+# is identical on the cloud box.
+#
+# Install on the instance with:
+#   pip install -r requirements_datagen.txt
+#
+# IMPORTANT (read the torch note at the bottom).
+# =========================================================
+
+# --- Core diffusion/model stack (PINNED to dev env) ---
+diffusers==0.37.0
+transformers==5.3.0
+accelerate==1.13.0
+
+# --- Model / tensor IO ---
+safetensors
+huggingface-hub
+
+# --- Runtime deps used across data-gen, training, and eval ---
+pytorch-lightning      # provides seed_everything (used everywhere)
+scipy                  # evaluate_clip.py: scipy.special + scipy.stats (KL divergence)
+numpy
+Pillow
+opencv-python-headless # cv2 for face detection; 'headless' avoids the libGL.so.1 crash on servers
+facexlib               # RetinaFace face detector (downloads weights on first run)
+ftfy                   # OpenAI CLIP tokenizer dependency
+regex                  # OpenAI CLIP tokenizer dependency
+tqdm                   # training progress bars
+packaging              # spatm_pipeline.py uses packaging.version
+
+# --- OpenAI CLIP (not on PyPI) ---
+git+https://github.com/openai/CLIP.git
+
+# --- Optional: present in the dev env but UNUSED in the code ---
+# peft is imported-but-guarded in train_spatm.py; not required to run.
+# Uncomment only if you re-enable LoRA paths.
+# peft
+
+# =========================================================
+# torch / torchvision are NOT listed on purpose.
+# The JarvisLabs PyTorch template already provides them with the
+# correct CUDA build. Reinstalling via pip can pull a mismatched or
+# CPU-only wheel and break GPU access.
+#
+# Verify after install:
+#   python -c "import torch; print(torch.__version__, torch.cuda.is_available())"
+# This must print True. If it prints False, torch got clobbered —
+# reinstall a CUDA build matching the box's driver, or rebuild the venv
+# with: python -m venv --system-site-packages /home/jl_fs/spatm-env
+# =========================================================

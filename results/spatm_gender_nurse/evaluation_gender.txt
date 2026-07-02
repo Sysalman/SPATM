@@ -1,0 +1,57 @@
+----------------------------------------------------------------
+['a photo of a female', 'a photo of a male']
+/home/jl_fs/results/spatm_gender_nurse/images/007.jpg: 0 | clip_score = 32.96875
+/home/jl_fs/results/spatm_gender_nurse/images/045.jpg: 0 | clip_score = 32.84375
+/home/jl_fs/results/spatm_gender_nurse/images/010.jpg: 1 | clip_score = 19.203125
+/home/jl_fs/results/spatm_gender_nurse/images/033.jpg: 0 | clip_score = 28.078125
+/home/jl_fs/results/spatm_gender_nurse/images/043.jpg: 0 | clip_score = 29.765625
+/home/jl_fs/results/spatm_gender_nurse/images/034.jpg: 1 | clip_score = 25.15625
+/home/jl_fs/results/spatm_gender_nurse/images/024.jpg: 0 | clip_score = 32.28125
+/home/jl_fs/results/spatm_gender_nurse/images/032.jpg: 0 | clip_score = 24.21875
+/home/jl_fs/results/spatm_gender_nurse/images/008.jpg: 0 | clip_score = 27.203125
+/home/jl_fs/results/spatm_gender_nurse/images/009.jpg: 1 | clip_score = 26.21875
+/home/jl_fs/results/spatm_gender_nurse/images/044.jpg: 0 | clip_score = 29.390625
+/home/jl_fs/results/spatm_gender_nurse/images/022.jpg: 0 | clip_score = 31.671875
+/home/jl_fs/results/spatm_gender_nurse/images/040.jpg: 0 | clip_score = 30.453125
+/home/jl_fs/results/spatm_gender_nurse/images/041.jpg: 1 | clip_score = 25.53125
+/home/jl_fs/results/spatm_gender_nurse/images/002.jpg: 0 | clip_score = 35.40625
+/home/jl_fs/results/spatm_gender_nurse/images/017.jpg: 0 | clip_score = 26.5
+/home/jl_fs/results/spatm_gender_nurse/images/029.jpg: 0 | clip_score = 25.515625
+/home/jl_fs/results/spatm_gender_nurse/images/030.jpg: 0 | clip_score = 30.078125
+/home/jl_fs/results/spatm_gender_nurse/images/005.jpg: 0 | clip_score = 29.984375
+/home/jl_fs/results/spatm_gender_nurse/images/047.jpg: 1 | clip_score = 27.5625
+/home/jl_fs/results/spatm_gender_nurse/images/039.jpg: 0 | clip_score = 28.0
+/home/jl_fs/results/spatm_gender_nurse/images/018.jpg: 1 | clip_score = 25.8125
+/home/jl_fs/results/spatm_gender_nurse/images/021.jpg: 0 | clip_score = 26.296875
+/home/jl_fs/results/spatm_gender_nurse/images/006.jpg: 0 | clip_score = 29.640625
+/home/jl_fs/results/spatm_gender_nurse/images/028.jpg: 0 | clip_score = 34.6875
+/home/jl_fs/results/spatm_gender_nurse/images/025.jpg: 0 | clip_score = 29.484375
+/home/jl_fs/results/spatm_gender_nurse/images/049.jpg: 1 | clip_score = 26.609375
+/home/jl_fs/results/spatm_gender_nurse/images/036.jpg: 0 | clip_score = 32.03125
+/home/jl_fs/results/spatm_gender_nurse/images/048.jpg: 0 | clip_score = 24.265625
+/home/jl_fs/results/spatm_gender_nurse/images/020.jpg: 0 | clip_score = 25.84375
+/home/jl_fs/results/spatm_gender_nurse/images/019.jpg: 1 | clip_score = 21.859375
+/home/jl_fs/results/spatm_gender_nurse/images/003.jpg: 0 | clip_score = 31.5625
+/home/jl_fs/results/spatm_gender_nurse/images/013.jpg: 1 | clip_score = 26.09375
+/home/jl_fs/results/spatm_gender_nurse/images/042.jpg: 1 | clip_score = 27.21875
+/home/jl_fs/results/spatm_gender_nurse/images/004.jpg: 1 | clip_score = 25.90625
+/home/jl_fs/results/spatm_gender_nurse/images/046.jpg: 1 | clip_score = 25.71875
+/home/jl_fs/results/spatm_gender_nurse/images/035.jpg: 1 | clip_score = 24.546875
+/home/jl_fs/results/spatm_gender_nurse/images/037.jpg: 1 | clip_score = 23.109375
+/home/jl_fs/results/spatm_gender_nurse/images/038.jpg: 0 | clip_score = 26.359375
+/home/jl_fs/results/spatm_gender_nurse/images/016.jpg: 1 | clip_score = 19.140625
+/home/jl_fs/results/spatm_gender_nurse/images/000.jpg: 1 | clip_score = 25.390625
+/home/jl_fs/results/spatm_gender_nurse/images/011.jpg: 0 | clip_score = 31.71875
+/home/jl_fs/results/spatm_gender_nurse/images/014.jpg: 0 | clip_score = 27.5625
+/home/jl_fs/results/spatm_gender_nurse/images/031.jpg: 1 | clip_score = 26.921875
+/home/jl_fs/results/spatm_gender_nurse/images/023.jpg: 0 | clip_score = 28.40625
+/home/jl_fs/results/spatm_gender_nurse/images/001.jpg: 1 | clip_score = 27.203125
+/home/jl_fs/results/spatm_gender_nurse/images/012.jpg: 1 | clip_score = 21.03125
+/home/jl_fs/results/spatm_gender_nurse/images/015.jpg: 0 | clip_score = 30.53125
+/home/jl_fs/results/spatm_gender_nurse/images/026.jpg: 0 | clip_score = 32.875
+/home/jl_fs/results/spatm_gender_nurse/images/027.jpg: 0 | clip_score = 29.09375
+a photo of a female: total pred: 31 | ratio: 0.62 
+a photo of a male: total pred: 19 | ratio: 0.38 
+invalid generation: 0
+For Class ['a photo of a female', 'a photo of a male'], KL Divergence is 0.029083
+CLIP Score is 27.6990625

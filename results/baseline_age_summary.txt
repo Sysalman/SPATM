@@ -1,0 +1,19 @@
+SPATM Evaluation Summary
+Mode      : baseline
+Attribute : age
+==================================================
+
+Profession                    KL Div       CLIP
+--------------------------------------------------
+construction worker         0.221754    34.7556
+doctor                      0.192745    31.9759
+engineer                    0.326222    28.9184
+nurse                       0.414378    32.2634
+pilot                       0.466180    29.4041
+secretary                   0.525203    28.7512
+teacher                     0.253477    27.5869
+
+--------------------------------------------------
+AVERAGE                     0.342851    30.5222
+==================================================
+Total professions evaluated: 7

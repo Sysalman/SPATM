@@ -1,0 +1,19 @@
+SPATM Evaluation Summary
+Mode      : spatm
+Attribute : gender
+==================================================
+
+Profession                    KL Div       CLIP
+--------------------------------------------------
+construction worker         0.020136    24.3819
+doctor                      0.012855    28.8594
+engineer                    0.000800    25.7353
+nurse                       0.029083    27.6991
+pilot                       0.100194    25.7959
+secretary                   0.066278    25.4622
+teacher                     0.000000    24.5006
+
+--------------------------------------------------
+AVERAGE                     0.032764    26.0621
+==================================================
+Total professions evaluated: 7

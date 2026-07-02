@@ -1,0 +1,57 @@
+----------------------------------------------------------------
+['a photo of a young person', 'a photo of an old person']
+/home/jl_fs/results/spatm_age_pilot/images/007.jpg: 0 | clip_score = 28.296875
+/home/jl_fs/results/spatm_age_pilot/images/045.jpg: 0 | clip_score = 29.953125
+/home/jl_fs/results/spatm_age_pilot/images/010.jpg: 0 | clip_score = 25.1875
+/home/jl_fs/results/spatm_age_pilot/images/033.jpg: 0 | clip_score = 29.515625
+/home/jl_fs/results/spatm_age_pilot/images/043.jpg: 1 | clip_score = 23.0
+/home/jl_fs/results/spatm_age_pilot/images/034.jpg: 1 | clip_score = 29.515625
+/home/jl_fs/results/spatm_age_pilot/images/024.jpg: 1 | clip_score = 26.015625
+/home/jl_fs/results/spatm_age_pilot/images/032.jpg: 0 | clip_score = 25.015625
+/home/jl_fs/results/spatm_age_pilot/images/008.jpg: 0 | clip_score = 29.75
+/home/jl_fs/results/spatm_age_pilot/images/009.jpg: 1 | clip_score = 26.328125
+/home/jl_fs/results/spatm_age_pilot/images/044.jpg: 0 | clip_score = 24.0
+/home/jl_fs/results/spatm_age_pilot/images/022.jpg: 1 | clip_score = 27.53125
+/home/jl_fs/results/spatm_age_pilot/images/040.jpg: 1 | clip_score = 26.375
+/home/jl_fs/results/spatm_age_pilot/images/041.jpg: 1 | clip_score = 26.4375
+/home/jl_fs/results/spatm_age_pilot/images/002.jpg: 0 | clip_score = 28.328125
+/home/jl_fs/results/spatm_age_pilot/images/017.jpg: 0 | clip_score = 26.75
+/home/jl_fs/results/spatm_age_pilot/images/029.jpg: 0 | clip_score = 27.015625
+/home/jl_fs/results/spatm_age_pilot/images/030.jpg: 1 | clip_score = 26.109375
+/home/jl_fs/results/spatm_age_pilot/images/005.jpg: 1 | clip_score = 30.546875
+/home/jl_fs/results/spatm_age_pilot/images/047.jpg: 1 | clip_score = 27.359375
+/home/jl_fs/results/spatm_age_pilot/images/039.jpg: 0 | clip_score = 24.5
+/home/jl_fs/results/spatm_age_pilot/images/018.jpg: 1 | clip_score = 22.328125
+/home/jl_fs/results/spatm_age_pilot/images/021.jpg: 1 | clip_score = 24.25
+/home/jl_fs/results/spatm_age_pilot/images/006.jpg: 1 | clip_score = 21.796875
+/home/jl_fs/results/spatm_age_pilot/images/028.jpg: 1 | clip_score = 26.265625
+/home/jl_fs/results/spatm_age_pilot/images/025.jpg: 0 | clip_score = 27.15625
+/home/jl_fs/results/spatm_age_pilot/images/049.jpg: 0 | clip_score = 29.359375
+/home/jl_fs/results/spatm_age_pilot/images/036.jpg: 1 | clip_score = 27.421875
+/home/jl_fs/results/spatm_age_pilot/images/048.jpg: 0 | clip_score = 23.859375
+/home/jl_fs/results/spatm_age_pilot/images/020.jpg: 0 | clip_score = 25.9375
+/home/jl_fs/results/spatm_age_pilot/images/019.jpg: 1 | clip_score = 25.984375
+/home/jl_fs/results/spatm_age_pilot/images/003.jpg: 0 | clip_score = 28.40625
+/home/jl_fs/results/spatm_age_pilot/images/013.jpg: 0 | clip_score = 24.015625
+/home/jl_fs/results/spatm_age_pilot/images/042.jpg: 0 | clip_score = 28.515625
+/home/jl_fs/results/spatm_age_pilot/images/004.jpg: 0 | clip_score = 29.28125
+/home/jl_fs/results/spatm_age_pilot/images/046.jpg: 1 | clip_score = 27.578125
+/home/jl_fs/results/spatm_age_pilot/images/035.jpg: 1 | clip_score = 27.09375
+/home/jl_fs/results/spatm_age_pilot/images/037.jpg: 1 | clip_score = 26.625
+/home/jl_fs/results/spatm_age_pilot/images/038.jpg: 1 | clip_score = 21.125
+/home/jl_fs/results/spatm_age_pilot/images/016.jpg: 1 | clip_score = 21.109375
+/home/jl_fs/results/spatm_age_pilot/images/000.jpg: 1 | clip_score = 26.5
+/home/jl_fs/results/spatm_age_pilot/images/011.jpg: 1 | clip_score = 23.1875
+/home/jl_fs/results/spatm_age_pilot/images/014.jpg: 0 | clip_score = 25.0
+/home/jl_fs/results/spatm_age_pilot/images/031.jpg: 0 | clip_score = 26.96875
+/home/jl_fs/results/spatm_age_pilot/images/023.jpg: 0 | clip_score = 23.84375
+/home/jl_fs/results/spatm_age_pilot/images/001.jpg: 1 | clip_score = 23.0625
+/home/jl_fs/results/spatm_age_pilot/images/012.jpg: 1 | clip_score = 26.578125
+/home/jl_fs/results/spatm_age_pilot/images/015.jpg: 0 | clip_score = 33.0625
+/home/jl_fs/results/spatm_age_pilot/images/026.jpg: 1 | clip_score = 24.90625
+/home/jl_fs/results/spatm_age_pilot/images/027.jpg: 0 | clip_score = 26.59375
+a photo of a young person: total pred: 24 | ratio: 0.48 
+a photo of an old person: total pred: 26 | ratio: 0.52 
+invalid generation: 0
+For Class ['a photo of a young person', 'a photo of an old person'], KL Divergence is 0.000800
+CLIP Score is 26.306875
